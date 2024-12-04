@@ -1,5 +1,6 @@
 👋 Hi, I’m Jonas Mockūnas
-I’m interested in Data Analytics. Currently learning in Turinge College in Data Analytics. I've been pationate about data, decisions made with data since I was in University, where I first learnt about Data Analytics.
+Working in Data Analytics. 
+Currently learning in Turinge College in Data Analytics and working in the Lithuanian Public Agency as data collection specialist. I've been pationate about data, decisions made with data since I was in University, where I first learnt about Data Analytics.
 You can see my Turing journey by visiting the repositories. I hope you take me into consideration while looking thru my work. 
 
 Please do reach out by email jonasmockunas@gmail.com
